@@ -1,0 +1,12 @@
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\bin\Debug\RadControlsWinFormsApp1.exe
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\bin\Debug\RadControlsWinFormsApp1.pdb
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\bin\Debug\TelerikData.dll
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsEx.csprojResolveAssemblyReference.cache
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsApp1.AUserControl.resources
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsApp1.BUserControl.resources
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsApp1.CUserControl.resources
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsApp1.Form1.resources
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsApp1.Properties.Resources.resources
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsEx.csproj.GenerateResource.Cache
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsApp1.exe
+C:\Users\SJS\Documents\Visual Studio 2010\Projects\RadControlsWinFormsApp1\RadControlsWinFormsApp1\obj\x86\Debug\RadControlsWinFormsApp1.pdb
